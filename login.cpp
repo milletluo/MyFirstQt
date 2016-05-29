@@ -9,7 +9,7 @@ Login::Login(QWidget *parent)
 	: QWidget(parent)
 {
 	ui.setupUi(this);
-	//git debug
+
 	QLabel *NameLabel = new QLabel(QStringLiteral("ÓÃ»§Ãû£º"));
 	QLabel *PasswordLabel = new QLabel(QStringLiteral("ÃÜ Âë£º"));
 
